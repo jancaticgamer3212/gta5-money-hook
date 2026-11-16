@@ -1,0 +1,11 @@
+# build artifacts
+dist/*.pdb
+dist/*.lib
+test/*.exe
+test/*.pdb
+*.obj
+*.o
+*.zip
+
+# runtime output
+GTA5Money.log
